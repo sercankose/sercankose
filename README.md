@@ -1,4 +1,4 @@
-# Hi there, I'm Sercan Köse.
+# Hi there, I'm Sercan Köse!
 
 I am building responsive websites and web applications as a steadfast and ambitious Front End developer. 
 I specialize in React.JS. The main driving forces in delving into the world of front end web development is my thirst for 
