@@ -8,7 +8,7 @@ learning new things and applying.
 
 <li>I have personal website at https://sercankose.github.io/My-Portfolio/ where all my contact informations are located.</li> 
 <li>You can contact me via <a href="mailto:sercannkosee@gmail.com" >email</a></li> 
-<li>Here is my LinkedIn https://www.linkedin.com/in/sercan-köse-frontend-dev/</li>
+<li>Here is my LinkedIn https://www.linkedin.com/in/sercan-kose-frontend-dev</li>
 
 
 
